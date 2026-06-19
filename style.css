@@ -1,4 +1,4 @@
-{
+*{
     padding: 0px;
     margin: 0px;
 }
@@ -52,7 +52,7 @@ nav a:hover{
     margin-right: 20px;
 }
 
-.verodepois{
+.viloes{
     display: fiex;
     justify-content: space-between;
     align-items: stretch;
